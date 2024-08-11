@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Factorial.iml" filepath="$PROJECT_DIR$/Factorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rev_Decimal_Binary.iml" filepath="$PROJECT_DIR$/Rev_Decimal_Binary.iml" />
     </modules>
   </component>
 </project>
